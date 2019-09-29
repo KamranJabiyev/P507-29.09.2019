@@ -1,0 +1,121 @@
+/* a {
+    color: red !important;
+    text-decoration: none;
+} */
+
+
+/* .redLink {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+
+.btn-green {
+    background: #4CAF50;
+}
+
+.btn-gray {
+    background: gray;
+}
+
+#insta {
+    color: rgb(14, 12, 17)
+} */
+
+
+/* #main div p {
+    color: red
+} */
+
+
+/* h3:hover {
+    color: red;
+} */
+
+
+/* p:first-child {
+    color: red;
+} */
+
+
+/* a[target="_blank"] {
+    background-color: yellow;
+} */
+
+
+/* a {
+    color: #0000FF;
+} */
+
+
+/* * {
+    background: red;
+} */
+
+
+/* div {
+    background-image: url("../img/back.png");
+    background-repeat: no-repeat;
+    background-position: top right;
+    background-attachment: fixed;
+} */
+
+
+/* body {
+    height: 200px;
+} */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+/* .test {
+    border-style: solid;
+    border-width: 5px;
+    border-color: red;
+    border: 1px solid red;
+    height: 100px;
+    width: 400px;
+    margin: 50px;
+    padding: 50px;
+    display: inline-block;
+    visibility: hidden;
+} */
+
+
+/* span {
+    display: block;
+}
+
+.test1 {
+    height: 100px;
+    width: 400px;
+    background: red;
+    margin-top: 35px;
+} */
+
+div {
+    height: 200px;
+    width: 200px;
+}
+
+.first {
+    background: red;
+    float: right;
+}
+
+.second {
+    background: green;
+    float: right;
+}
+
+.third {
+    background: blue;
+    float: right;
+}
+
+.clearfix {
+    clear: both;
+}
